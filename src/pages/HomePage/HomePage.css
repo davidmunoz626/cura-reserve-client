@@ -1,0 +1,16 @@
+.IndexCarousel {
+  height: 600px;
+}
+
+.IndexCarousel img {
+  object-fit: cover;
+  height: 100%;
+}
+
+.homeVideo {
+  width: 100%;
+  z-index: -1;
+  height: 70vh;
+  margin-bottom: 0;
+  object-fit: cover;
+}

@@ -1,0 +1,21 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+  text-align: justify;
+}
+
+.navbar {
+  z-index: 9;
+}
+
+
+a {
+  text-decoration: none !important;
+}
+
+.btn {
+  background-color: #002E45;
+  border: none;
+  color: white;
+  font-weight: bold;
+  --bs-btn-hover-bg: #2f78a0;
+}

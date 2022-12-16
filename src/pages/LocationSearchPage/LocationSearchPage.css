@@ -1,0 +1,13 @@
+.mapa {
+    border: 2px solid #727272;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.search {
+    border: 2px solid #727272;
+    border-radius: 5px;
+    width: 30%;
+
+}
